@@ -1,0 +1,17 @@
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.Form1.resources
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.GenerateResource.cache
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfo.vb
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.sourcelink.json
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.exe
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.deps.json
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.runtimeconfig.json
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\refint\GradingSystem.dll
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.genruntimeconfig.cache
+C:\Users\Sandra\Desktop\VB\VB-Basic\GradingSystem\obj\Debug\net8.0-windows\ref\GradingSystem.dll

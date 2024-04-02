@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class WelcomeForm
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ToolTip1.SetToolTip(btnExit, "Close the form")
         ToolTip1.SetToolTip(btnLoadObjectDemo, "Opens a new form Object Demonstrations")
